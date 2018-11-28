@@ -1,0 +1,6 @@
+[package]
+name = "rust-host"
+version = "0.1.0"
+authors = ["Andres Goens <andres.goens@tu-dresden.de>"]
+
+[dependencies]
