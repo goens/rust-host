@@ -2,6 +2,6 @@
 // Author(s): Andres Goens
 
 pub mod director;
-mod channel;
-mod actor;
+pub mod channel;
+pub mod actor;
 
